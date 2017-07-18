@@ -1,0 +1,17 @@
+{
+    "projectName": "QuickLaunch",
+    "username": "ramu.veligeti@yahoo.co.in",
+    "id": "13124e50-6b97-11e7-a5ce-e9502761c0fb",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://rvt-dev-ed.my.salesforce.com",
+    "workspace": "/Users/work/Documents/Workspace/",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}
